@@ -3,8 +3,14 @@
 # Vaidyah
 This is a healthcare website that deals with user to make healthcare accessible by enabiling to learn easily more about their medicines ,about covid resources, health related blogs and virtually connect doctor patients Technologies used : MERN stack( mongoDb , Express js,Reactjs, Nodejs), WebRtc
 
+Demo Video :
+
+https://user-images.githubusercontent.com/63996482/148636387-dd448251-030d-40e8-ae98-6d2868f1765f.mp4
+
 
 here are some snapshots of project
+
+
 
 ![Screenshot 2021-07-26 124727](https://user-images.githubusercontent.com/63996482/126948544-8b2fdbed-cc62-4db8-a506-0a42183e10a0.png)
 
